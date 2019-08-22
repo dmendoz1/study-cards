@@ -97,7 +97,8 @@ body, input, textarea {
   cursor: pointer;
 }
 
-.add-card-btn:hover, .new-card-btn:hover {
+.add-card-btn:hover, .new-card-btn:hover,
+.add-card-btn:focus, .new-card-btn:focus {
   background-color: #86c5da;
 }
 
@@ -145,7 +146,8 @@ body, input, textarea {
   transition: all 0.5s ease-in-out;
 }
 
-.card:hover {
+.card:hover,
+.card:focus {
   transform: rotateY(180deg);
 }
 
@@ -189,7 +191,8 @@ body, input, textarea {
   transition: all 0.3s linear;
 }
 
-.remove-card-btn:hover {
+.remove-card-btn:hover,
+.remove-card-btn:focus {
   color: #e6bbad;
   background: white;
 }
