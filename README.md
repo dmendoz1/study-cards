@@ -1,3 +1,8 @@
+Study Cards web app built using Javascript (React JS), CSS3, HTML5. User cards are saved using Locastorage
+
+Demo: https://dmendoz1.github.io/study-cards/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
