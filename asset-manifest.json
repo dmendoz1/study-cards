@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/study-cards/static/css/main.38dea7da.chunk.css",
+    "main.js": "/study-cards/static/js/main.13b4c3f2.chunk.js",
+    "main.js.map": "/study-cards/static/js/main.13b4c3f2.chunk.js.map",
+    "runtime~main.js": "/study-cards/static/js/runtime~main.1577e63c.js",
+    "runtime~main.js.map": "/study-cards/static/js/runtime~main.1577e63c.js.map",
+    "static/js/2.d0690dff.chunk.js": "/study-cards/static/js/2.d0690dff.chunk.js",
+    "static/js/2.d0690dff.chunk.js.map": "/study-cards/static/js/2.d0690dff.chunk.js.map",
+    "index.html": "/study-cards/index.html",
+    "precache-manifest.dfb4b10c20f1dca99bbd858d28e33785.js": "/study-cards/precache-manifest.dfb4b10c20f1dca99bbd858d28e33785.js",
+    "service-worker.js": "/study-cards/service-worker.js",
+    "static/css/main.38dea7da.chunk.css.map": "/study-cards/static/css/main.38dea7da.chunk.css.map"
+  }
+}
